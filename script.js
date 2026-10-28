@@ -60,19 +60,20 @@
 // console.log(a===b);
 // console.log(a==b);
 
-const a =10;
-const b= 5;
-console.log(a !== b);
-console.log(a > b);
-console.log(a < b);
-console.log(a>=b);
-console.log(a<=b);
+// const a =10;
+// const b= 5;
+// console.log(a !== b);
+// console.log(a > b);
+// console.log(a < b);
+// console.log(a>=b);
+// console.log(a<=b);
 
 //Logical Operators
-const isStudent= true;
-const hasCompleted= false;
-console.log(isStudent && hasCompleted);
-console.log(isStudent|| hasCompleted);
-console.log(!isStudent);
+// const isStudent= true;
+// const hasCompleted= false;
+// console.log(isStudent && hasCompleted);
+// console.log(isStudent|| hasCompleted);
+// console.log(!isStudent);
 
 
+//Conditions
